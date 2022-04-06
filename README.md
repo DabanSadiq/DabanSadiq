@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **Dabansadiq10@gmail.com** || **daban.sadiq@dit.gov.krd**
 - 
-![DabanSadiq GitHub stats](https://github-readme-stats.vercel.app/api?username=DabanSadiq&show_icons=true&theme=radical&count_private=true)
+![DabanSadiq GitHub stats](https://github-readme-stats.vercel.app/api?username=Dabansadiq&show_icons=true&theme=github_dark&count_private=true)
 
 
 <!--
