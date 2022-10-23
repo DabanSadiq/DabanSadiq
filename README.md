@@ -28,4 +28,3 @@ Here are some ideas to get you started:
   <br>
 </div>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
