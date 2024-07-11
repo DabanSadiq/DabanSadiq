@@ -23,10 +23,17 @@ Here are some ideas to get you started:
 
 <!-- Snake contributions graph https://github.com/Platane/snk -->
 <div align="center">
-  <p align="center">
-  <img src="https://github.com/DabanSadiq/DabanSadiq/raw/output/github-contribution-grid-snake.svg" alt="snake">
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DabanSadiq/DabanSadiq/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DabanSadiq/DabanSadiq/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DabanSadiq/DabanSadiq/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 </p>
   <br>
 </div>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
