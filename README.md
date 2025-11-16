@@ -51,13 +51,3 @@
 </picture>
 
 ###
-
-<br clear="both">
-
-<div align="left">
-  <a href="https://open.spotify.com/user/dabansadiq-us">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=dabansadiq-us&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
